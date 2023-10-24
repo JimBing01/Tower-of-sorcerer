@@ -32,7 +32,7 @@ let open_exp = false,time_mark = 0;
 		Context.fillText("DEF:								 ",60,230);
 		Context.fillText(hero_def,170,230);
 
-		Context.fillText("MONEY:		 ",60,265);
+		Context.fillText("GOLD:		 ",60,265);
 		Context.fillText(dollar,172,265);
 
 		Context.fillText("EXP:								 ",60,300);
@@ -64,7 +64,7 @@ let open_exp = false,time_mark = 0;
 		Context.fillText("DEF:								 ",60,230);
 		Context.fillText(hero_def,170,230);
 
-		Context.fillText("MONEY:		 ",60,265);
+		Context.fillText("GOLD:		 ",60,265);
 		Context.fillText(dollar,172,265);
 
 		Context.fillText("EXP:								 ",60,300);
